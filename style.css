@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #222222;
+    padding: 19px 0;
+}
+
+.Logo {
+    font-family: "Roboto Light";
+    font-size: 40px;
+}
+
+.btn-cart {
+    display: flex;
+}
+
+.main {
+    justify-content: space-between;
+}
